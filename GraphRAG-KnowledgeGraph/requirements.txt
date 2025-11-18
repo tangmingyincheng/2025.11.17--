@@ -1,0 +1,4 @@
+pymupdf>=1.22.0
+llama-index>=0.8.5
+tqdm
+pdfminer.six

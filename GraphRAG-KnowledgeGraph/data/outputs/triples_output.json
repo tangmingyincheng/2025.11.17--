@@ -1,0 +1,244 @@
+{
+  "metadata": {
+    "total_triples": 21,
+    "source_files": [
+      "lesson6_1.json",
+      "早期创业融资指南-奇绩创坛.json"
+    ],
+    "extracted_at": "2025-11-17T15:48:23.284579Z",
+    "llm_model": "gpt-4o-mini"
+  },
+  "triples": [
+    {
+      "subject": "融资策略",
+      "predicate": "帮助",
+      "object": "团队创造契机",
+      "confidence": 0.8,
+      "source_file": "lesson6_1.pdf",
+      "page_number": 1,
+      "block_id": 2,
+      "source_text": "这份指南的目的是提供具体融资策略，帮助团队创造契机，从而更顺利地在Demo Day路演之后开展",
+      "extracted_at": "2025-11-17T15:44:24.644345Z"
+    },
+    {
+      "subject": "团队创造契机",
+      "predicate": "促进",
+      "object": "顺利开展",
+      "confidence": 0.75,
+      "source_file": "lesson6_1.pdf",
+      "page_number": 1,
+      "block_id": 2,
+      "source_text": "这份指南的目的是提供具体融资策略，帮助团队创造契机，从而更顺利地在Demo Day路演之后开展",
+      "extracted_at": "2025-11-17T15:44:24.644345Z"
+    },
+    {
+      "subject": "Demo Day",
+      "predicate": "影响",
+      "object": "融资决策",
+      "confidence": 0.8,
+      "source_file": "lesson6_1.pdf",
+      "page_number": 2,
+      "block_id": 4,
+      "source_text": "•\n尽量避免在Demo Day之前敲定融资，美国YC校友在Demo Day前融资的后来都后悔了。 ​",
+      "extracted_at": "2025-11-17T15:44:53.621582Z"
+    },
+    {
+      "subject": "YC校友",
+      "predicate": "后悔",
+      "object": "Demo Day前融资",
+      "confidence": 0.85,
+      "source_file": "lesson6_1.pdf",
+      "page_number": 2,
+      "block_id": 4,
+      "source_text": "•\n尽量避免在Demo Day之前敲定融资，美国YC校友在Demo Day前融资的后来都后悔了。 ​",
+      "extracted_at": "2025-11-17T15:44:53.621582Z"
+    },
+    {
+      "subject": "锻炼",
+      "predicate": "提高",
+      "object": "免疫力",
+      "confidence": 0.9,
+      "source_file": "lesson6_1.pdf",
+      "page_number": 2,
+      "block_id": 5,
+      "source_text": "•\n疫情期间保持锻炼来提高自身的免疫力，注意休息，保持健康；尽量减少可能会导致被隔离的活",
+      "extracted_at": "2025-11-17T15:44:58.356893Z"
+    },
+    {
+      "subject": "注意休息",
+      "predicate": "保持",
+      "object": "健康",
+      "confidence": 0.85,
+      "source_file": "lesson6_1.pdf",
+      "page_number": 2,
+      "block_id": 5,
+      "source_text": "•\n疫情期间保持锻炼来提高自身的免疫力，注意休息，保持健康；尽量减少可能会导致被隔离的活",
+      "extracted_at": "2025-11-17T15:44:58.356893Z"
+    },
+    {
+      "subject": "被隔离的活",
+      "predicate": "导致",
+      "object": "疫情期间",
+      "confidence": 0.8,
+      "source_file": "lesson6_1.pdf",
+      "page_number": 2,
+      "block_id": 5,
+      "source_text": "•\n疫情期间保持锻炼来提高自身的免疫力，注意休息，保持健康；尽量减少可能会导致被隔离的活",
+      "extracted_at": "2025-11-17T15:44:58.356893Z"
+    },
+    {
+      "subject": "路演",
+      "predicate": "是",
+      "object": "最重要的环节",
+      "confidence": 0.8,
+      "source_file": "lesson6_1.pdf",
+      "page_number": 2,
+      "block_id": 8,
+      "source_text": "•\n努力讲好你的2分钟路演，这是路演日最重要的环节。要记住，你代表的不仅是你自己，而是公司",
+      "extracted_at": "2025-11-17T15:45:01.747060Z"
+    },
+    {
+      "subject": "你",
+      "predicate": "代表",
+      "object": "公司",
+      "confidence": 0.9,
+      "source_file": "lesson6_1.pdf",
+      "page_number": 2,
+      "block_id": 8,
+      "source_text": "•\n努力讲好你的2分钟路演，这是路演日最重要的环节。要记住，你代表的不仅是你自己，而是公司",
+      "extracted_at": "2025-11-17T15:45:01.747060Z"
+    },
+    {
+      "subject": "Demo Day展位",
+      "predicate": "能够吸引",
+      "object": "投资人注意",
+      "confidence": 0.8,
+      "source_file": "lesson6_1.pdf",
+      "page_number": 2,
+      "block_id": 14,
+      "source_text": "•\n利用好自己公司的Demo Day展位，现场可以全方位展示能够吸引投资人注意的产品demo。通过",
+      "extracted_at": "2025-11-17T15:45:16.894734Z"
+    },
+    {
+      "subject": "产品demo",
+      "predicate": "展示",
+      "object": "投资人注意",
+      "confidence": 0.75,
+      "source_file": "lesson6_1.pdf",
+      "page_number": 2,
+      "block_id": 14,
+      "source_text": "•\n利用好自己公司的Demo Day展位，现场可以全方位展示能够吸引投资人注意的产品demo。通过",
+      "extracted_at": "2025-11-17T15:45:16.894734Z"
+    },
+    {
+      "subject": "融资",
+      "predicate": "给",
+      "object": "创始人的思考加一个杠杆",
+      "confidence": 0.8,
+      "source_file": "早期创业融资指南-奇绩创坛.pdf",
+      "page_number": 1,
+      "block_id": 8,
+      "source_text": "其实融资主要是给创始人的思考加一个杠杆。这个杠杆是一个金融杠杆，你拿了钱把你的想法付诸实",
+      "extracted_at": "2025-11-17T15:46:44.889362Z"
+    },
+    {
+      "subject": "金融杠杆",
+      "predicate": "影响",
+      "object": "想法付诸实践",
+      "confidence": 0.75,
+      "source_file": "早期创业融资指南-奇绩创坛.pdf",
+      "page_number": 1,
+      "block_id": 8,
+      "source_text": "其实融资主要是给创始人的思考加一个杠杆。这个杠杆是一个金融杠杆，你拿了钱把你的想法付诸实",
+      "extracted_at": "2025-11-17T15:46:44.889362Z"
+    },
+    {
+      "subject": "风险",
+      "predicate": "下降",
+      "object": "项目进展",
+      "confidence": 0.8,
+      "source_file": "早期创业融资指南-奇绩创坛.pdf",
+      "page_number": 1,
+      "block_id": 24,
+      "source_text": "第二个，风险下降了。你的项目有进展，能力在逐步地提升，你想得越来越明白了，所以你的估值上",
+      "extracted_at": "2025-11-17T15:47:29.321871Z"
+    },
+    {
+      "subject": "能力",
+      "predicate": "提升",
+      "object": "估值",
+      "confidence": 0.75,
+      "source_file": "早期创业融资指南-奇绩创坛.pdf",
+      "page_number": 1,
+      "block_id": 24,
+      "source_text": "第二个，风险下降了。你的项目有进展，能力在逐步地提升，你想得越来越明白了，所以你的估值上",
+      "extracted_at": "2025-11-17T15:47:29.321871Z"
+    },
+    {
+      "subject": "确定性",
+      "predicate": "提升",
+      "object": "投资人愿意按照更高的价格投公司",
+      "confidence": 0.8,
+      "source_file": "早期创业融资指南-奇绩创坛.pdf",
+      "page_number": 1,
+      "block_id": 25,
+      "source_text": "去了，确定性变高了，投资人愿意按照更高的价格去投你的公司了。",
+      "extracted_at": "2025-11-17T15:47:33.003621Z"
+    },
+    {
+      "subject": "阿里巴巴",
+      "predicate": "促进",
+      "object": "生意",
+      "confidence": 0.8,
+      "source_file": "早期创业融资指南-奇绩创坛.pdf",
+      "page_number": 2,
+      "block_id": 11,
+      "source_text": "的例子是阿里巴巴，它做什么生意？用技术让天下没有难做的生意。但是他们一开始并没有完全想明",
+      "extracted_at": "2025-11-17T15:47:58.263584Z"
+    },
+    {
+      "subject": "技术",
+      "predicate": "让",
+      "object": "天下没有难做的生意",
+      "confidence": 0.85,
+      "source_file": "早期创业融资指南-奇绩创坛.pdf",
+      "page_number": 2,
+      "block_id": 11,
+      "source_text": "的例子是阿里巴巴，它做什么生意？用技术让天下没有难做的生意。但是他们一开始并没有完全想明",
+      "extracted_at": "2025-11-17T15:47:58.263584Z"
+    },
+    {
+      "subject": "创业者",
+      "predicate": "需要",
+      "object": "路径规划",
+      "confidence": 0.8,
+      "source_file": "早期创业融资指南-奇绩创坛.pdf",
+      "page_number": 2,
+      "block_id": 18,
+      "source_text": "好的创业者，一定要有路径规划，包括如何在五年之内成为独角兽等。在美国融资，这一点很重要，",
+      "extracted_at": "2025-11-17T15:48:14.342218Z"
+    },
+    {
+      "subject": "路径规划",
+      "predicate": "帮助",
+      "object": "成为独角兽",
+      "confidence": 0.75,
+      "source_file": "早期创业融资指南-奇绩创坛.pdf",
+      "page_number": 2,
+      "block_id": 18,
+      "source_text": "好的创业者，一定要有路径规划，包括如何在五年之内成为独角兽等。在美国融资，这一点很重要，",
+      "extracted_at": "2025-11-17T15:48:14.342218Z"
+    },
+    {
+      "subject": "融资",
+      "predicate": "影响",
+      "object": "创业者成功",
+      "confidence": 0.7,
+      "source_file": "早期创业融资指南-奇绩创坛.pdf",
+      "page_number": 2,
+      "block_id": 18,
+      "source_text": "好的创业者，一定要有路径规划，包括如何在五年之内成为独角兽等。在美国融资，这一点很重要，",
+      "extracted_at": "2025-11-17T15:48:14.342218Z"
+    }
+  ]
+}

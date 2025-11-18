@@ -1,0 +1,193 @@
+[
+  {
+    "community_id": 1,
+    "size": 3,
+    "summary": "[自动生成] 包含 3 个实体的知识社区",
+    "entities": [
+      "融资策略",
+      "团队创造契机",
+      "顺利开展"
+    ],
+    "generated_at": "2025-11-18T14:34:42.063565Z",
+    "error": "sequence item 0: expected str instance, NoneType found"
+  },
+  {
+    "community_id": 4,
+    "size": 2,
+    "summary": "[自动生成] 包含 2 个实体的知识社区",
+    "entities": [
+      "Demo Day",
+      "融资决策"
+    ],
+    "generated_at": "2025-11-18T14:34:42.082921Z",
+    "error": "sequence item 0: expected str instance, NoneType found"
+  },
+  {
+    "community_id": 6,
+    "size": 2,
+    "summary": "[自动生成] 包含 2 个实体的知识社区",
+    "entities": [
+      "YC校友",
+      "Demo Day前融资"
+    ],
+    "generated_at": "2025-11-18T14:34:42.099648Z",
+    "error": "sequence item 0: expected str instance, NoneType found"
+  },
+  {
+    "community_id": 8,
+    "size": 2,
+    "summary": "[自动生成] 包含 2 个实体的知识社区",
+    "entities": [
+      "锻炼",
+      "免疫力"
+    ],
+    "generated_at": "2025-11-18T14:34:42.115337Z",
+    "error": "sequence item 0: expected str instance, NoneType found"
+  },
+  {
+    "community_id": 10,
+    "size": 2,
+    "summary": "[自动生成] 包含 2 个实体的知识社区",
+    "entities": [
+      "注意休息",
+      "健康"
+    ],
+    "generated_at": "2025-11-18T14:34:42.128142Z",
+    "error": "sequence item 0: expected str instance, NoneType found"
+  },
+  {
+    "community_id": 12,
+    "size": 2,
+    "summary": "[自动生成] 包含 2 个实体的知识社区",
+    "entities": [
+      "被隔离的活",
+      "疫情期间"
+    ],
+    "generated_at": "2025-11-18T14:34:42.142358Z",
+    "error": "sequence item 0: expected str instance, NoneType found"
+  },
+  {
+    "community_id": 14,
+    "size": 2,
+    "summary": "[自动生成] 包含 2 个实体的知识社区",
+    "entities": [
+      "路演",
+      "最重要的环节"
+    ],
+    "generated_at": "2025-11-18T14:34:42.152141Z",
+    "error": "sequence item 0: expected str instance, NoneType found"
+  },
+  {
+    "community_id": 16,
+    "size": 2,
+    "summary": "[自动生成] 包含 2 个实体的知识社区",
+    "entities": [
+      "你",
+      "公司"
+    ],
+    "generated_at": "2025-11-18T14:34:42.163593Z",
+    "error": "sequence item 0: expected str instance, NoneType found"
+  },
+  {
+    "community_id": 18,
+    "size": 3,
+    "summary": "[自动生成] 包含 3 个实体的知识社区",
+    "entities": [
+      "Demo Day展位",
+      "投资人注意",
+      "产品demo"
+    ],
+    "generated_at": "2025-11-18T14:34:42.185145Z",
+    "error": "sequence item 0: expected str instance, NoneType found"
+  },
+  {
+    "community_id": 21,
+    "size": 3,
+    "summary": "[自动生成] 包含 3 个实体的知识社区",
+    "entities": [
+      "融资",
+      "创始人的思考加一个杠杆",
+      "创业者成功"
+    ],
+    "generated_at": "2025-11-18T14:34:42.209899Z",
+    "error": "sequence item 0: expected str instance, NoneType found"
+  },
+  {
+    "community_id": 23,
+    "size": 2,
+    "summary": "[自动生成] 包含 2 个实体的知识社区",
+    "entities": [
+      "金融杠杆",
+      "想法付诸实践"
+    ],
+    "generated_at": "2025-11-18T14:34:42.273447Z",
+    "error": "sequence item 0: expected str instance, NoneType found"
+  },
+  {
+    "community_id": 25,
+    "size": 2,
+    "summary": "[自动生成] 包含 2 个实体的知识社区",
+    "entities": [
+      "风险",
+      "项目进展"
+    ],
+    "generated_at": "2025-11-18T14:34:42.285044Z",
+    "error": "sequence item 0: expected str instance, NoneType found"
+  },
+  {
+    "community_id": 27,
+    "size": 2,
+    "summary": "[自动生成] 包含 2 个实体的知识社区",
+    "entities": [
+      "能力",
+      "估值"
+    ],
+    "generated_at": "2025-11-18T14:34:42.305837Z",
+    "error": "sequence item 0: expected str instance, NoneType found"
+  },
+  {
+    "community_id": 29,
+    "size": 2,
+    "summary": "[自动生成] 包含 2 个实体的知识社区",
+    "entities": [
+      "确定性",
+      "投资人愿意按照更高的价格投公司"
+    ],
+    "generated_at": "2025-11-18T14:34:42.320172Z",
+    "error": "sequence item 0: expected str instance, NoneType found"
+  },
+  {
+    "community_id": 31,
+    "size": 2,
+    "summary": "[自动生成] 包含 2 个实体的知识社区",
+    "entities": [
+      "阿里巴巴",
+      "生意"
+    ],
+    "generated_at": "2025-11-18T14:34:42.339246Z",
+    "error": "sequence item 0: expected str instance, NoneType found"
+  },
+  {
+    "community_id": 33,
+    "size": 2,
+    "summary": "[自动生成] 包含 2 个实体的知识社区",
+    "entities": [
+      "技术",
+      "天下没有难做的生意"
+    ],
+    "generated_at": "2025-11-18T14:34:42.350819Z",
+    "error": "sequence item 0: expected str instance, NoneType found"
+  },
+  {
+    "community_id": 35,
+    "size": 3,
+    "summary": "[自动生成] 包含 3 个实体的知识社区",
+    "entities": [
+      "创业者",
+      "路径规划",
+      "成为独角兽"
+    ],
+    "generated_at": "2025-11-18T14:34:42.363510Z",
+    "error": "sequence item 0: expected str instance, NoneType found"
+  }
+]

@@ -1,0 +1,39 @@
+# LLM 配置
+llm:
+  provider: openai  # 可选: openai, openrouter
+  model: gpt-4o-mini  # 或其他模型如 gpt-3.5-turbo, gpt-4
+  temperature: 0.1
+  max_tokens: 2000
+  
+  # API 密钥（请使用环境变量或在此填写）
+  api_key: YOUR_API_KEY_HERE
+  
+  # API 端点
+  api_base: https://api.openai.com/v1
+  
+  # OpenRouter 示例配置：
+  # provider: openrouter
+  # model: anthropic/claude-3-haiku
+  # api_key: ${OPENROUTER_API_KEY}
+
+# 知识抽取配置
+extraction:
+  # 随机选择的 JSON 文件数量
+  sample_size: 2
+  
+  # 每个文件最多处理的文本块数量（避免 API 成本过高）
+  max_blocks_per_file: 50
+  
+  # 最小文本长度（字符数）
+  min_text_length: 20
+  
+  # 批处理大小
+  batch_size: 1
+
+# Neo4j 配置（可选，用于知识图谱存储）
+neo4j:
+  enabled: false
+  uri: bolt://localhost:7687
+  username: neo4j
+  password: YOUR_NEO4J_PASSWORD
+  database: neo4j
