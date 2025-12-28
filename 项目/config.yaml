@@ -6,7 +6,7 @@ llm:
   max_tokens: 2000
   
   # API 密钥（推荐使用环境变量）
-  api_key: sk-b4xmWaIeOomb7nexeBhZwOInhkfqWzY4VoLsjE59jr1Db4rw
+  api_key: ${OPENROUTER_API_KEY}
   
   # 云雾 AI API 端点
   api_base: https://yunwu.ai/v1
